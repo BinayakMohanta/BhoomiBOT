@@ -1,9 +1,12 @@
 # BhoomiBOT
 A precision agriculture solution using drones for crop health monitoring, spraying, and blockchain-based traceability.
+
 Overview
+
 This repository contains the source code, documentation, and resources for the Smart Agricultural Drone System BhoomiBot, a project designed to revolutionize modern farming practices using drone technology. The solution focuses on precision agriculture, leveraging AI, IoT, and blockchain to optimize crop management, reduce resource wastage, and empower rural communities.
 
 Problem Statement
+
 Traditional farming methods often result in inefficiencies such as overuse of water, pesticides, and fertilizers. These practices not only increase costs but also harm the environment.BhoomiBot addresses these challenges by providing a cost-effective, data-driven, and eco-friendly solution for farmers.
 
 Key Features
